@@ -1,2 +1,2 @@
-# Linux-Automation_Scripts
+# Linu-Automation_Scripts
 Shell Scripts in Linux
